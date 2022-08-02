@@ -31,8 +31,8 @@ if (.Platform$OS.type == "unix") {
 inla.getOption("mkl")
 inla.getOption("num.threads")
 
-source("/Users/ipocrnic/Documents/Roslin Posao/Projekti/2019 cattle_mtDNA/ipocrnic_cattle_mtdna/funkcija_nova.R")
-# source("/Users/vladimir/Desktop/6.prociscenikod_Pocrnic_3.5.2020/updatekoda/funkcija_nova.R")
+source("/Users/ipocrnic/Documents/Roslin Posao/Projekti/2019 cattle_mtDNA/ipocrnic_cattle_mtdna/fuctions.R")
+# source("/Users/vladimir/Desktop/6.prociscenikod_Pocrnic_3.5.2020/updatekoda/functions.R")
 
 # ---- Data: pedigree import ----
 
