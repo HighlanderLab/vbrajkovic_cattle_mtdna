@@ -1,4 +1,4 @@
-# Cattle mtDNA Project
+# Analysis of the effect of mtDNA on dairy cattle performance
 
 ## Major TO DO
 - Clean and comment main script as much as possible 
