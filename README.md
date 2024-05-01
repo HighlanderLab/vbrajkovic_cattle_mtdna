@@ -1,12 +1,12 @@
-# Analysis of the effect of mtDNA on dairy cattle performance
+# Quantifying the effects of the mitochondrial genome on milk production traits in dairy cows: empirical results and modelling challenges
+## Authors: Vladimir Brajkovic, Ivan Pocrnic, Miroslav Kaps, Marija Špehar, Vlatka Cubric-Curik, Strahil Ristov, Dinko Novosel, Gregor Gorjanc, Ino Curik
 
-## Major TO DO
-- Clean and comment main script as much as possible 
-- Clean the functions file; what is actually used? 
+## Please cite: Brajkovic et al., XXXX
+## DOI:
 
-## Minor TO DO 
-- All analyses currently in one big R script; possibly break into parts?
-- Data files kept locally  
-- Many bits of the code were for testing purposes only (I think most was cleaned in September 2020)
-- If public version is to be provided for publication additional cleaning needed
-- I don't necesseraly remember the source of some functions in functions script (some are adapted from Gregor and Maria for sure...)
+## Data
+- Before starting analysis please download data files from Zenodo (LINK) and put in the ```Data``` directory in your working directory
+
+## Installing INLA
+- Analyses are done with INLA, which might need specific instalation based on your operating system
+- For details please see corresponding website: (LINK TO INLA)
