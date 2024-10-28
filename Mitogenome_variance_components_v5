@@ -49,7 +49,7 @@ library(package = "INLA")
 #inla.getOption("num.threads")
 
 
-# Set source for the functions.R
+# Set source for the functions_v5.R
 
 source("/path-to-your-working-directory/functions_v5.R")
 
